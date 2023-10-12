@@ -1,4 +1,4 @@
-![Logo](https://ibb.co/L5R5v40)
+![Logo]([https://ibb.co/L5R5v40](https://www.ccdb.in/assets/images/ccdb-logo-v2.png))
 
 # Course Critique Database
 
