@@ -1,5 +1,3 @@
-![Logo](https://ibb.co/L5R5v40)
-
 # Course Critique Database
 
 CCDb (Course Critique Database) is an online database that contains information about online courses and more. The database includes course instructors details, course details, ratings, and reviews. CCDb is the largest and most comprehensive online course database on the web.
