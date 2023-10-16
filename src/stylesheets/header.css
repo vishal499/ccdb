@@ -1,0 +1,18 @@
+/* Header Styles */
+
+.logo img{
+    width: 100px; 
+}
+
+header i{
+    font-size: 25px;
+}
+
+.fa-angle-down{
+    font-size: 16px;
+}
+
+header .username{
+    margin: 0 10px 0 20px;
+    font-size: 16px;
+}
