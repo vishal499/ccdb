@@ -1,10 +1,11 @@
 import React from "react";
 import logo from "../assets/images/logo.png";
 
+
 const Header = () => {
   return (
     <>
-      <header className="container-fluid bg-white fixed-top">
+      <header className="container-fluid bg-white">
         <div className="row p-3">
           <div className="col">
             <span className="logo">

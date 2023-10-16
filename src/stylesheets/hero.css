@@ -1,0 +1,38 @@
+.hero{
+    padding: 70px 100px;
+    background-color:white;
+    display: flex;
+}
+
+.rightside img{
+    width: 690px;
+}
+
+.leftside{
+    max-width: 40vw;
+    
+}
+.leftside p{
+    margin-top: 40px;
+}
+.leftside h2{
+    font-size: 40px;
+    font-weight: 500;
+}
+.leftside p{
+    font-size: 20px;
+}
+.leftside h1{
+    font-size: 60px;
+}
+.leftside a{
+    background-color:black;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
