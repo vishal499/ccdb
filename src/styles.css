@@ -1,5 +1,6 @@
 @import url(stylesheets/hero.css);
 @import url('./stylesheets/header.css');
+@import url('./stylesheets/Footer.css');
 *{
     margin: 0;
     padding: 0;
